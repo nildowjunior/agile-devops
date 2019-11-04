@@ -16,4 +16,4 @@ O parâmetro `APP_COLOR` só aceita nomes de cores escrito em inglês e será ut
 
 # Para acessar a aplicação localmente
 
-Utilizar o caminho http://localhost:8087
+Utilizar o caminho http://127.0.0.1:8087
